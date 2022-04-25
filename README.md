@@ -20,7 +20,7 @@ https://github.com/kulanaavinash/GadgetBadget/blob/186eb4e1c6daeb5fe1cf35f8b2d30
 
 
 # How to set the path?
-http://localhost:8090/GadgetBadget/CustomerService/Customers            -- For Customer Function
+http://localhost:8080/CustomerManagement/CustomerService/Customer          -- For Customer Function
 
 http://localhost:8090/GadgetBadget/PaymentService/Payments               --For Payment Function 
 
