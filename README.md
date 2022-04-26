@@ -1,7 +1,7 @@
 # ElectroGrid
 
 # About our project?
-Our project is based on a company who funds the inventors to build their precious products and also help them to sell the products in companies online platform.
+ElectroGrid (EG) is the company who maintains the power grid of the country. Our task was to develop a highly scalable online platform for the EG users. So, in this assignment we identified four different functions to build web services such as Customer Service, Employee Service, Payment Service, and Power Details Service. 
 
 
 #  The technologies we used were
