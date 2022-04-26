@@ -26,7 +26,7 @@ http://localhost:8080/EmployeeManagement/EmployeeService/Employee   --For Employ
 
 http://localhost:8090/GadgetBadget/InventorService/Inventors        --For Payment Management Service
 
-http://localhost:8090/GadgetBadget/ProductService/Products          --For Power Details Management Service
+http://localhost:8080/PowerDetailsManagement/PowerDetailsService/PowerDetails  --For Power Details Management Service
 
 
 
