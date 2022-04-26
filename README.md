@@ -24,7 +24,7 @@ http://localhost:8080/CustomerManagement/CustomerService/Customer   -- For Custo
 
 http://localhost:8080/EmployeeManagement/EmployeeService/Employee   --For Employee Management Service 
 
-http://localhost:8090/GadgetBadget/InventorService/Inventors        --For Payment Management Service
+http://localhost:8080/PaymentManagement/PaymentService/Payment        --For Payment Management Service
 
 http://localhost:8080/PowerDetailsManagement/PowerDetailsService/PowerDetails  --For Power Details Management Service
 
