@@ -14,11 +14,6 @@ Import the electricitypower.sql (In Database folder) DB then clone the project a
 #  Link  To ElectroGrid Database
 https://github.com/IT20121556/ElectroGrid/blob/main/Database/electricitypower.sql
 
-
-#  Link  To Project  Report
-https://github.com/kulanaavinash/GadgetBadget/blob/186eb4e1c6daeb5fe1cf35f8b2d304aa6c1f4c7e/Project%20Reports/IT3030PAF2021_Gadgetbadget_Group08.pdf
-
-
 # How to set the path?
 http://localhost:8080/CustomerManagement/CustomerService/Customer   -- For Customer Management Service
 
