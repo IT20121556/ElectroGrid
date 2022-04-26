@@ -9,10 +9,10 @@ java JAX-RS(jersy) Restful web service on Apache  Tomcat  mysql as the database 
 
 
 # How to execute the project?
-Import the gadgetbadget DB then clone the project and after it become cloned by using apache tomcat server the project can be executed.
+Import the electricitypower.sql (In Database folder) DB then clone the project and after it become cloned by using apache tomcat server the project can be executed.
 
 #  Link  To ElectroGrid Database
-https://github.com/kulanaavinash/GadgetBadget/blob/master/gadgetbadget%20DB.sql
+https://github.com/IT20121556/ElectroGrid/blob/main/Database/electricitypower.sql
 
 
 #  Link  To Project  Report
@@ -24,13 +24,9 @@ http://localhost:8080/CustomerManagement/CustomerService/Customer   -- For Custo
 
 http://localhost:8080/EmployeeManagement/EmployeeService/Employee   --For Employee Function 
 
-http://localhost:8090/GadgetBadget/InventorService/Inventors            --For Inventor Function
+http://localhost:8090/GadgetBadget/InventorService/Inventors        --For Inventor Function
 
-http://localhost:8090/GadgetBadget/ProductService/Products              --For Product Function
-
-http://localhost:8090/GadgetBadget/FunderService/Funders                 -- For Funder Function
-
-http://localhost:8090/GadgetBadget/ApprovementService/Approvements      --For Approvement Function
+http://localhost:8090/GadgetBadget/ProductService/Products          --For Product Function
 
 
 
